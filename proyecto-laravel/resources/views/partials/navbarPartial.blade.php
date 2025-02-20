@@ -13,7 +13,7 @@
             <h1 class="text-4xl font-extrabold">Holandés Errante</h1>
             <nav>
                 <ul class="flex space-x-6 text-lg">
-                    <li><a href="#" class="hover:text-gray-400">Inicio</a></li>
+                    <li><a href="/" class="hover:text-gray-400">Inicio</a></li>
                     <li><a href="/productos" class="hover:text-gray-400">Productos</a></li>
                     <li><a href="/alquiler" class="hover:text-gray-400">Alquiler</a></li>
                     <li><a href="/contacto" class="hover:text-gray-400">Contacto</a></li>
@@ -21,3 +21,4 @@
             </nav>
         </div>
     </header>
+</body>
